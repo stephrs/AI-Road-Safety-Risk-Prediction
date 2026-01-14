@@ -54,3 +54,7 @@ We used a 2-Level Stacking approach to minimize variance and bias:
 3. Run the notebook
    ```bash
    Road_Accident_Prediction.ipynb
+4. Dataset
+   The dataset used in this project is too large for GitHub.
+   You can download it directly from the source:
+   (https://www.kaggle.com/competitions/dstc-kaggle-practice-2025)
